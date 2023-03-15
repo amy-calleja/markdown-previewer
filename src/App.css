@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.toolbar{
+  background-color: rgb(181, 214, 243);
+}
+
+.col{
+  background-color: aliceblue;
+  max-width: 500px;
+  height: 600px;
+}
+
+textarea{
+  width: 100%;
+  height: 600px;
+}
