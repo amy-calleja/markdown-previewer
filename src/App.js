@@ -42,10 +42,6 @@ function App() {
     setEdits(e.target.value)
   }
 
-const getMarkdownEdits=()=> {
-    <ReactMarkdown children={edits} remarkPlugins={[remarkGfm]} />
-  }
-
   marked.setOptions({breaks: true});
   
 
