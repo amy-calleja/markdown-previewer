@@ -17,12 +17,12 @@ function App() {
   * Lists of \`code\`
   * [ ] todo
   * [x] done
-  
-  > This is a blockquote
+        
+        > This is a blockquote
 
-    <html>
-      <head> Code blocks are fun! </head>
-    </html>
+        <html>
+          <head> Code blocks are fun! </head>
+        </html>
   
   ~~~
   {
